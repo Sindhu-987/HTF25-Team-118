@@ -82,11 +82,6 @@ Enhance the UI with multi-document support and export options for chat history.
 Enable deployment to cloud platforms for wider accessibility.
 Integrate additional vector databases for broader compatibility.
 
-## Contributing 🤝
-
-
-🚀 We warmly welcome contributions to enhance this project! Whether it's fixing bugs, adding new features, or improving documentation, your efforts will help make this project better for everyone. Let's collaborate and build something amazing together! 🌟✨
-
 
 ### Acknowledgments 🙏
 
