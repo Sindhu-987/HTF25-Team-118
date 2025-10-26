@@ -20,7 +20,7 @@ Follow the steps below to run and interact with the project:
 ### 1. Clone the Repository
 Clone the repository to your local system using the following command:
 ```bash
-git clone https://github.com/VivekChauhan05/RAG_Document_Question_Answering.git
+git clone https://github.com/Sindhu-987/HTF25-Team-118.git
 cd RAG_Document_Question_Answering
 ```
 
@@ -87,9 +87,6 @@ Integrate additional vector databases for broader compatibility.
 
 🚀 We warmly welcome contributions to enhance this project! Whether it's fixing bugs, adding new features, or improving documentation, your efforts will help make this project better for everyone. Let's collaborate and build something amazing together! 🌟✨
 
-### License  📜
-
-This project is licensed under the Apache License. See the `LICENSE` file for more details.
 
 ### Acknowledgments 🙏
 
